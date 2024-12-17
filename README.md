@@ -6,10 +6,10 @@
 
 <h3><strong>Onboarding Page</strong></h3>
 <p>The onboarding process introduces users to the application with a series of engaging visuals:</p>
-<div>
-  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/1.jpg?raw=true" alt="Image 1" />
-  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/2.jpg?raw=true" alt="Image 2" />
-  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/3.jpg?raw=true" alt="Image 3" />
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px;">
+  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/1.jpg?raw=true" alt="Image 1" style="width: 100%; border-radius: 8px;" />
+  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/2.jpg?raw=true" alt="Image 2" style="width: 100%; border-radius: 8px;" />
+  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/3.jpg?raw=true" alt="Image 3" style="width: 100%; border-radius: 8px;" />
 </div>
 
 <hr>
@@ -19,9 +19,9 @@
 <ul>
   <li><strong>Registration Page</strong>: Includes a check to verify if the user already exists.</li>
 </ul>
-<div>
-  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/4.jpg?raw=true" alt="Image 1" />
-  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/5.jpg?raw=true" alt="Image 2" />
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px;">
+  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/4.jpg?raw=true" alt="Image 4" style="width: 100%; border-radius: 8px;" />
+  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/5.jpg?raw=true" alt="Image 5" style="width: 100%; border-radius: 8px;" />
 </div>
 
 <hr>
@@ -41,14 +41,16 @@
     </ul>
   </li>
 </ul>
-<div>
-  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/7.jpg?raw=true" alt="Image 1" />
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px;">
+  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/7.jpg?raw=true" alt="Homepage" style="width: 100%; max-width: 200px; border-radius: 8px;" />
 </div>
 
 <p>The app also features a convenient navigation drawer.</p>
-<div>
-  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/13.jpg?raw=true" alt="Image 1" />
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px;">
+  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/13.jpg?raw=true" alt="Navigation Drawer" style="width: 100%; max-width: 200px; border-radius: 8px;" />
 </div>
+
+<hr>
 
 <hr>
 
@@ -58,7 +60,7 @@
   <li><strong>Category Selection</strong>: Select a category from the available options.</li>
 </ol>
 <div>
-  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/9.jpg?raw=true" alt="Image 1" />
+  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/9.jpg?raw=true" alt="Image 1" style="width: 100%; max-width: 200px; border-radius: 8px;" />
 </div>
 
 <hr>
@@ -71,8 +73,8 @@
     </ul>
   </li>
 </ol>
-<div>
-  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/8.jpg?raw=true" alt="Image 1" />
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px;">
+  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/8.jpg?raw=true" alt="Image 1" style="width: 100%; max-width: 200px; border-radius: 8px;" />
 </div>
 
 <p><strong>Gameplay Rules</strong>:</p>
@@ -81,7 +83,7 @@
   <li>The game ends after three skips.</li>
 </ul>
 <div>
-  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/12.jpg?raw=true" alt="Image 1" />
+  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/12.jpg?raw=true" alt="Image 1" style="width: 100%; max-width: 200px; border-radius: 8px;" />
 </div>
 
 <hr>
@@ -93,7 +95,7 @@
   <li>View account details.</li>
 </ul>
 <div>
-  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/14.jpg?raw=true" alt="Image 1" />
+  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/14.jpg?raw=true" alt="Image 1" style="width: 100%; max-width: 200px; border-radius: 8px;" />
 </div>
 
 <hr>
@@ -107,7 +109,7 @@
   <li>Delete the account from the database.</li>
 </ul>
 <div>
-  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/15.jpg?raw=true" alt="Image 1" />
+  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/15.jpg?raw=true" alt="Image 1" style="width: 100%; max-width: 200px; border-radius: 8px;" />
 </div>
 
 <hr>
@@ -115,7 +117,7 @@
 <h3><strong>Leaderboard</strong></h3>
 <p>The leaderboard showcases the top 10 active players for the week, promoting competition and engagement.</p>
 <div>
-  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/16.jpg?raw=true" alt="Image 1" />
+  <img src="https://github.com/xloyb/Quizia-Application/blob/main/images/16.jpg?raw=true" alt="Image 1" style="width: 100%; max-width: 200px; border-radius: 8px;" />
 </div>
 
 <hr>
